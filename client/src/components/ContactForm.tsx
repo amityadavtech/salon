@@ -20,13 +20,13 @@ const contactInfo = [
   {
     icon: Phone,
     title: "Phone",
-    details: "(555) 123-4567",
+    details: "11111111",
     subtitle: "Call us directly"
   },
   {
     icon: Mail,
     title: "Email",
-    details: "info@luxeacademy.com",
+    details: "info@sumeeransalon.com",
     subtitle: "Send us a message"
   },
   {

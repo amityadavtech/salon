@@ -52,7 +52,7 @@ export default function Footer() {
           >
             <Link href="/">
               <h2 className="text-2xl font-serif font-bold text-primary">
-                Luxe Academy
+                Sumeera Salon & Academy
               </h2>
             </Link>
             <p className="text-muted-foreground leading-relaxed">
@@ -176,7 +176,7 @@ export default function Footer() {
           className="flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-muted-foreground"
         >
           <div className="flex items-center gap-1">
-            <span>© 2024 Luxe Academy. Made with</span>
+            <span>© 2024 Sumeera Salon & Academy. Made with</span>
             <Heart className="w-4 h-4 text-primary fill-primary" />
             <span>for beauty enthusiasts.</span>
           </div>
