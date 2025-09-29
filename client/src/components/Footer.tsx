@@ -176,7 +176,7 @@ export default function Footer() {
           className="flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-muted-foreground"
         >
           <div className="flex items-center gap-1">
-            <span>© 2024 Sumeera Salon & Academy. Made with</span>
+            <span>© 2025 Sumeera Salon & Academy. Made with</span>
             <Heart className="w-4 h-4 text-primary fill-primary" />
             <span>for beauty enthusiasts.</span>
           </div>
